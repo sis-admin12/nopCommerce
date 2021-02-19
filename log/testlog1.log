@@ -1,0 +1,257 @@
+2021-02-17 14:35:58,001 [main] INFO eCommerce - url is opened...
+2021-02-17 14:35:59,151 [main] INFO eCommerce - user nane is set
+2021-02-17 14:36:00,244 [main] INFO eCommerce - password is set
+2021-02-17 14:36:05,427 [main] INFO eCommerce - clik login btn
+2021-02-17 14:36:05,435 [main] INFO eCommerce - verification title of web page
+2021-02-17 14:36:13,397 [main] INFO eCommerce - succes, logout
+2021-02-17 14:36:14,054 [main] INFO eCommerce - close browser
+2021-02-17 15:18:52,866 [main] INFO eCommerce - url is opened...
+2021-02-17 15:18:53,555 [main] INFO eCommerce - close browser
+2021-02-17 15:25:58,204 [main] INFO eCommerce - url is opened...
+2021-02-17 15:25:59,356 [main] INFO eCommerce - user nane is set
+2021-02-17 15:26:00,443 [main] INFO eCommerce - password is set
+2021-02-17 15:26:04,994 [main] INFO eCommerce - clik login btn
+2021-02-17 15:26:05,003 [main] INFO eCommerce - verification title of web page
+2021-02-17 15:26:11,513 [main] INFO eCommerce - succes, logout
+2021-02-17 15:26:12,161 [main] INFO eCommerce - close browser
+2021-02-17 16:11:36,715 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:11:37,869 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:11:38,958 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:11:43,456 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:11:43,464 [TestNG-tests-1] INFO eCommerce - verification title of web page
+2021-02-17 16:11:49,966 [TestNG-tests-1] INFO eCommerce - succes, logout
+2021-02-17 16:11:50,611 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:17:17,947 [TestNG-tests-3] INFO eCommerce - url is opened...
+2021-02-17 16:17:18,256 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:17:19,401 [TestNG-tests-3] INFO eCommerce - user nane is set
+2021-02-17 16:17:19,470 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:17:20,578 [TestNG-tests-3] INFO eCommerce - password is set
+2021-02-17 16:17:20,607 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:17:20,667 [TestNG-tests-3] INFO eCommerce - clik login btn
+2021-02-17 16:17:20,698 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:17:21,480 [TestNG-tests-3] INFO eCommerce - close browser
+2021-02-17 16:17:21,480 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:21:11,742 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:21:12,834 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:21:13,886 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:21:21,274 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:21:21,281 [TestNG-tests-1] INFO eCommerce - verification title of web page
+2021-02-17 16:21:28,525 [TestNG-tests-1] INFO eCommerce - succes, logout
+2021-02-17 16:21:29,108 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:23:23,524 [TestNG-tests-2] INFO eCommerce - url is opened...
+2021-02-17 16:23:24,606 [TestNG-tests-2] INFO eCommerce - user nane is set
+2021-02-17 16:23:25,657 [TestNG-tests-2] INFO eCommerce - password is set
+2021-02-17 16:23:33,091 [TestNG-tests-2] INFO eCommerce - clik login btn
+2021-02-17 16:23:33,096 [TestNG-tests-2] INFO eCommerce - verification title of web page
+2021-02-17 16:23:40,282 [TestNG-tests-2] INFO eCommerce - succes, logout
+2021-02-17 16:23:40,986 [TestNG-tests-2] INFO eCommerce - close browser
+2021-02-17 16:24:24,129 [TestNG-tests-2] INFO eCommerce - url is opened...
+2021-02-17 16:24:26,658 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:24:27,805 [TestNG-tests-2] INFO eCommerce - user nane is set
+2021-02-17 16:24:27,882 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:24:28,981 [TestNG-tests-2] INFO eCommerce - password is set
+2021-02-17 16:24:29,017 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:24:29,081 [TestNG-tests-2] INFO eCommerce - clik login btn
+2021-02-17 16:24:29,110 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:24:29,759 [TestNG-tests-2] INFO eCommerce - close browser
+2021-02-17 16:24:29,759 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:25:54,391 [TestNG-tests-2] INFO eCommerce - url is opened...
+2021-02-17 16:25:56,531 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:25:57,643 [TestNG-tests-2] INFO eCommerce - user nane is set
+2021-02-17 16:25:57,704 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:25:58,797 [TestNG-tests-2] INFO eCommerce - password is set
+2021-02-17 16:25:58,825 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:25:58,909 [TestNG-tests-2] INFO eCommerce - clik login btn
+2021-02-17 16:25:58,941 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:26:00,082 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:28:43,872 [TestNG-tests-2] INFO eCommerce - url is opened...
+2021-02-17 16:28:45,142 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:28:46,260 [TestNG-tests-2] INFO eCommerce - user nane is set
+2021-02-17 16:28:46,314 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:28:47,399 [TestNG-tests-2] INFO eCommerce - password is set
+2021-02-17 16:28:47,425 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:28:47,478 [TestNG-tests-2] INFO eCommerce - clik login btn
+2021-02-17 16:28:47,516 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:28:48,202 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:28:48,202 [TestNG-tests-2] INFO eCommerce - close browser
+2021-02-17 16:33:40,024 [TestNG-tests-2] INFO eCommerce - url is opened...
+2021-02-17 16:33:42,215 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:33:43,336 [TestNG-tests-2] INFO eCommerce - user nane is set
+2021-02-17 16:33:43,400 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:33:44,479 [TestNG-tests-2] INFO eCommerce - password is set
+2021-02-17 16:33:44,503 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:33:44,553 [TestNG-tests-2] INFO eCommerce - clik login btn
+2021-02-17 16:33:44,586 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:33:45,231 [TestNG-tests-2] INFO eCommerce - close browser
+2021-02-17 16:33:45,231 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:36:23,619 [TestNG-tests-1] INFO eCommerce - url is opened...
+2021-02-17 16:36:24,761 [TestNG-tests-1] INFO eCommerce - user nane is set
+2021-02-17 16:36:25,845 [TestNG-tests-1] INFO eCommerce - password is set
+2021-02-17 16:36:31,168 [TestNG-tests-1] INFO eCommerce - clik login btn
+2021-02-17 16:36:31,176 [TestNG-tests-1] INFO eCommerce - verification title of web page
+2021-02-17 16:36:37,695 [TestNG-tests-1] INFO eCommerce - succes, logout
+2021-02-17 16:36:38,336 [TestNG-tests-1] INFO eCommerce - close browser
+2021-02-17 16:43:24,917 [main] INFO eCommerce - url is opened...
+2021-02-17 16:43:26,070 [main] INFO eCommerce - user nane is set
+2021-02-17 16:43:27,166 [main] INFO eCommerce - password is set
+2021-02-17 16:43:31,732 [main] INFO eCommerce - clik login btn
+2021-02-17 16:43:31,739 [main] INFO eCommerce - verification title of web page
+2021-02-17 16:43:39,030 [main] INFO eCommerce - succes, logout
+2021-02-17 16:43:39,661 [main] INFO eCommerce - close browser
+2021-02-17 16:43:45,940 [main] INFO eCommerce - url is opened...
+2021-02-17 16:43:47,011 [main] INFO eCommerce - user nane is set
+2021-02-17 16:43:48,051 [main] INFO eCommerce - password is set
+2021-02-17 16:43:54,270 [main] INFO eCommerce - clik login btn
+2021-02-17 16:43:54,273 [main] INFO eCommerce - verification title of web page
+2021-02-17 16:44:00,712 [main] INFO eCommerce - succes, logout
+2021-02-17 16:44:01,453 [main] INFO eCommerce - close browser
+2021-02-17 19:23:41,796 [main] INFO eCommerce - url is opened...
+2021-02-17 19:23:42,966 [main] INFO eCommerce - user nane is set
+2021-02-17 19:23:44,057 [main] INFO eCommerce - password is set
+2021-02-17 19:23:48,490 [main] INFO eCommerce - clik login btn
+2021-02-17 19:23:50,509 [main] INFO eCommerce - verification title of web page
+2021-02-17 19:23:57,712 [main] INFO eCommerce - succes, logout
+2021-02-17 19:23:58,366 [main] INFO eCommerce - close browser
+2021-02-17 19:24:05,401 [main] INFO eCommerce - url is opened...
+2021-02-17 19:24:06,468 [main] INFO eCommerce - user nane is set
+2021-02-17 19:24:07,504 [main] INFO eCommerce - password is set
+2021-02-17 19:24:11,795 [main] INFO eCommerce - clik login btn
+2021-02-17 19:24:13,810 [main] INFO eCommerce - verification title of web page
+2021-02-17 19:24:20,261 [main] INFO eCommerce - succes, logout
+2021-02-17 19:24:20,833 [main] INFO eCommerce - close browser
+2021-02-17 19:25:14,655 [main] INFO eCommerce - url is opened...
+2021-02-17 19:25:15,796 [main] INFO eCommerce - user nane is set
+2021-02-17 19:25:16,877 [main] INFO eCommerce - password is set
+2021-02-17 19:25:22,192 [main] INFO eCommerce - clik login btn
+2021-02-17 19:25:24,900 [main] INFO eCommerce - close browser
+2021-02-17 19:25:31,839 [main] INFO eCommerce - url is opened...
+2021-02-17 19:25:32,906 [main] INFO eCommerce - user nane is set
+2021-02-17 19:25:33,942 [main] INFO eCommerce - password is set
+2021-02-17 19:25:39,703 [main] INFO eCommerce - clik login btn
+2021-02-17 19:25:42,464 [main] INFO eCommerce - close browser
+2021-02-17 19:35:35,786 [main] INFO eCommerce - url is opened...
+2021-02-17 19:35:36,930 [main] INFO eCommerce - user nane is set
+2021-02-17 19:35:38,013 [main] INFO eCommerce - password is set
+2021-02-17 19:35:43,495 [main] INFO eCommerce - clik login btn
+2021-02-17 19:35:46,650 [main] INFO eCommerce - close browser
+2021-02-17 19:35:53,566 [main] INFO eCommerce - url is opened...
+2021-02-17 19:35:54,631 [main] INFO eCommerce - user nane is set
+2021-02-17 19:35:55,667 [main] INFO eCommerce - password is set
+2021-02-17 19:36:02,055 [main] INFO eCommerce - clik login btn
+2021-02-17 19:36:04,946 [main] INFO eCommerce - close browser
+2021-02-18 10:41:39,758 [main] INFO eCommerce - close browser
+2021-02-18 10:49:53,928 [main] INFO eCommerce - User provided
+2021-02-18 10:49:55,076 [main] INFO eCommerce - Password provided
+2021-02-18 10:50:00,758 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:50:07,556 [main] INFO eCommerce - User provided
+2021-02-18 10:50:08,679 [main] INFO eCommerce - Password provided
+2021-02-18 10:50:09,154 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:50:11,178 [main] INFO eCommerce - Login Failed
+2021-02-18 10:50:13,969 [main] INFO eCommerce - User provided
+2021-02-18 10:50:15,115 [main] INFO eCommerce - Password provided
+2021-02-18 10:50:15,572 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:50:17,597 [main] INFO eCommerce - Login Failed
+2021-02-18 10:50:19,700 [main] INFO eCommerce - User provided
+2021-02-18 10:50:20,797 [main] INFO eCommerce - Password provided
+2021-02-18 10:50:21,257 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:50:23,266 [main] INFO eCommerce - Login Failed
+2021-02-18 10:50:24,320 [main] INFO eCommerce - close browser
+2021-02-18 10:57:44,593 [main] INFO eCommerce - url is opened...
+2021-02-18 10:57:45,743 [main] INFO eCommerce - user nane is set
+2021-02-18 10:57:46,836 [main] INFO eCommerce - password is set
+2021-02-18 10:57:52,098 [main] INFO eCommerce - clik login btn
+2021-02-18 10:57:55,189 [main] INFO eCommerce - close browser
+2021-02-18 10:58:09,878 [main] INFO eCommerce - User provided
+2021-02-18 10:58:10,969 [main] INFO eCommerce - Password provided
+2021-02-18 10:58:15,959 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:58:21,633 [main] INFO eCommerce - User provided
+2021-02-18 10:58:22,766 [main] INFO eCommerce - Password provided
+2021-02-18 10:58:23,897 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:58:25,908 [main] INFO eCommerce - Login Failed
+2021-02-18 10:58:28,001 [main] INFO eCommerce - User provided
+2021-02-18 10:58:29,075 [main] INFO eCommerce - Password provided
+2021-02-18 10:58:29,506 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:58:31,524 [main] INFO eCommerce - Login Failed
+2021-02-18 10:58:33,674 [main] INFO eCommerce - User provided
+2021-02-18 10:58:34,780 [main] INFO eCommerce - Password provided
+2021-02-18 10:58:35,248 [main] INFO eCommerce - Login in Clicked
+2021-02-18 10:58:37,261 [main] INFO eCommerce - Login Failed
+2021-02-18 10:58:37,959 [main] INFO eCommerce - close browser
+2021-02-18 11:04:57,516 [main] INFO eCommerce - url is opened...
+2021-02-18 11:04:58,657 [main] INFO eCommerce - user nane is set
+2021-02-18 11:04:59,745 [main] INFO eCommerce - password is set
+2021-02-18 11:05:04,000 [main] INFO eCommerce - clik login btn
+2021-02-18 11:05:07,077 [main] INFO eCommerce - close browser
+2021-02-18 11:05:22,096 [main] INFO eCommerce - User provided
+2021-02-18 11:05:23,191 [main] INFO eCommerce - Password provided
+2021-02-18 11:05:28,492 [main] INFO eCommerce - Login in Clicked
+2021-02-18 11:05:33,964 [main] INFO eCommerce - User provided
+2021-02-18 11:05:35,078 [main] INFO eCommerce - Password provided
+2021-02-18 11:05:35,515 [main] INFO eCommerce - Login in Clicked
+2021-02-18 11:05:37,908 [main] INFO eCommerce - Login Failed
+2021-02-18 11:05:40,012 [main] INFO eCommerce - User provided
+2021-02-18 11:05:41,125 [main] INFO eCommerce - Password provided
+2021-02-18 11:05:42,352 [main] INFO eCommerce - Login in Clicked
+2021-02-18 11:05:44,727 [main] INFO eCommerce - Login Failed
+2021-02-18 11:05:47,505 [main] INFO eCommerce - User provided
+2021-02-18 11:05:48,613 [main] INFO eCommerce - Password provided
+2021-02-18 11:05:49,088 [main] INFO eCommerce - Login in Clicked
+2021-02-18 11:05:51,454 [main] INFO eCommerce - Login Failed
+2021-02-18 11:05:52,104 [main] INFO eCommerce - close browser
+2021-02-18 11:57:29,446 [main] INFO eCommerce - User name is provided
+2021-02-18 11:57:30,542 [main] INFO eCommerce - password is provided
+2021-02-18 11:57:35,454 [main] INFO eCommerce - providing customer details....
+2021-02-18 11:57:41,363 [main] INFO eCommerce - validation started....
+2021-02-18 11:57:41,513 [main] INFO eCommerce - test case passed....
+2021-02-18 11:57:42,163 [main] INFO eCommerce - close browser
+2021-02-18 12:00:28,339 [main] INFO eCommerce - User name is provided
+2021-02-18 12:00:29,432 [main] INFO eCommerce - password is provided
+2021-02-18 12:00:33,589 [main] INFO eCommerce - providing customer details....
+2021-02-18 12:00:39,758 [main] INFO eCommerce - validation started....
+2021-02-18 12:00:41,022 [main] INFO eCommerce - close browser
+2021-02-18 14:18:35,985 [main] INFO eCommerce - User name is provided
+2021-02-18 14:18:37,087 [main] INFO eCommerce - password is provided
+2021-02-18 14:18:41,720 [main] INFO eCommerce - providing customer details....
+2021-02-18 14:18:47,563 [main] INFO eCommerce - validation started....
+2021-02-18 14:18:48,879 [main] INFO eCommerce - close browser
+2021-02-18 14:21:06,843 [main] INFO eCommerce - User name is provided
+2021-02-18 14:21:07,930 [main] INFO eCommerce - password is provided
+2021-02-18 14:21:12,216 [main] INFO eCommerce - providing customer details....
+2021-02-18 14:21:18,144 [main] INFO eCommerce - validation started....
+2021-02-18 14:21:19,442 [main] INFO eCommerce - close browser
+2021-02-18 14:22:24,335 [main] INFO eCommerce - User name is provided
+2021-02-18 14:22:25,426 [main] INFO eCommerce - password is provided
+2021-02-18 14:22:29,696 [main] INFO eCommerce - providing customer details....
+2021-02-18 14:22:37,043 [main] INFO eCommerce - validation started....
+2021-02-18 14:22:37,186 [main] INFO eCommerce - test case passed....
+2021-02-18 14:22:37,940 [main] INFO eCommerce - close browser
+2021-02-18 14:48:50,301 [main] INFO eCommerce - User name is provided
+2021-02-18 14:48:51,395 [main] INFO eCommerce - password is provided
+2021-02-18 14:48:56,513 [main] INFO eCommerce - providing customer details....
+2021-02-18 14:49:01,677 [main] INFO eCommerce - validation started....
+2021-02-18 14:49:01,825 [main] INFO eCommerce - test case passed....
+2021-02-18 14:49:02,621 [main] INFO eCommerce - close browser
+2021-02-18 20:07:25,886 [main] INFO eCommerce - User name is provided
+2021-02-18 20:07:27,044 [main] INFO eCommerce - password is provided
+2021-02-18 20:07:31,407 [main] INFO eCommerce - providing customer details....
+2021-02-18 20:07:38,892 [main] INFO eCommerce - validation started....
+2021-02-18 20:07:39,071 [main] INFO eCommerce - test case passed....
+2021-02-18 20:07:41,343 [main] INFO eCommerce - close browser
+2021-02-18 20:09:08,370 [main] INFO eCommerce - User name is provided
+2021-02-18 20:09:09,530 [main] INFO eCommerce - password is provided
+2021-02-18 20:09:13,994 [main] INFO eCommerce - providing customer details....
+2021-02-18 20:09:20,851 [main] INFO eCommerce - validation started....
+2021-02-18 20:09:21,018 [main] INFO eCommerce - test case passed....
+2021-02-18 20:09:22,210 [main] INFO eCommerce - close browser
+2021-02-19 09:40:13,016 [main] INFO eCommerce - User name is provided
+2021-02-19 09:40:14,195 [main] INFO eCommerce - password is provided
+2021-02-19 09:40:18,889 [main] INFO eCommerce - providing customer details....
+2021-02-19 09:40:25,936 [main] INFO eCommerce - validation started....
+2021-02-19 09:40:26,103 [main] INFO eCommerce - test case passed....
+2021-02-19 09:40:26,969 [main] INFO eCommerce - close browser
+2021-02-19 09:43:56,949 [main] INFO eCommerce - User name is provided
+2021-02-19 09:43:58,156 [main] INFO eCommerce - password is provided
+2021-02-19 09:44:03,304 [main] INFO eCommerce - providing customer details....
+2021-02-19 09:44:08,820 [main] INFO eCommerce - validation started....
+2021-02-19 09:44:09,030 [main] INFO eCommerce - test case passed....
+2021-02-19 09:44:09,819 [main] INFO eCommerce - close browser
